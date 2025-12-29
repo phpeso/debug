@@ -14,3 +14,4 @@ Some shared debug stuff for the Peso Framework.
 ## Services
 
 * BlackHoleService. Accepts all valid requests and returns the corresponding "not found" error
+* ReplaceableService. A mutable wrapper that allows switching the underlying service object
